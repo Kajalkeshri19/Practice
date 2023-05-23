@@ -16,7 +16,7 @@ public class Solution {
 		scan.close(); 
       
 		// Print a string literal saying "Hello, World." to stdout.
-		System.out.println("Hello, World.");
+		System.out.println("file modified");
       
 	    // TODO: Write a line of code here that prints the contents of inputString to stdout.
         System.out.println(inputString);
